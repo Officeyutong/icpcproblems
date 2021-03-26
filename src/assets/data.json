@@ -1,0 +1,722 @@
+[
+    {
+        "statement": "   奥林匹克运动会的发源地是:(  )\nA古罗马 B古希腊 C古代中国 D古巴比伦 ",
+        "answer": "B"
+    },
+    {
+        "statement": "设G是有n个结点、m条边（n≤m）的连接图，必须删去G的（ ）条边，才能使得G变成一棵树。\nA. m-n+1 B. m-n C. m+n+1 D. n-m+1\n",
+        "answer": "A"
+    },
+    {
+        "statement": "在8位二进制补码中，10101011表示的数是十进制下的（ ）\nA． 43 B. -85 C. -43 D. -84",
+        "answer": "B"
+    },
+    {
+        "statement": "咖啡的故乡是哪里?(  )\nA亚洲 B美洲 C大洋洲 D非洲 ",
+        "answer": "D"
+    },
+    {
+        "statement": "下列不属于面向对象程序设计语言的是（ ）\nA. C B. C++ C. Java D. C#",
+        "answer": "A"
+    },
+    {
+        "statement": "世界上最长的运河是哪一条?(  )\nA中国京杭大运河 B苏伊士运河 C巴拿马运河",
+        "answer": "A"
+    },
+    {
+        "statement": "对于给定的序列｛ak｝,我们把（i , j）称为逆序对当且仅当 i<j且ai > aj .那么序列1，7，2，3，5，4的逆序对数为（ ）个\nA. 4 B. 5 C. 6 D. 7",
+        "answer": "B"
+    },
+    {
+        "statement": "下列四个不同进制的数中，与其他三项数值上不相等的是（）\nA (269)_{16}   B (617)_{10}   C (1151)_{8}   D (1001101011)_{2}",
+        "answer": "D"
+    },
+    {
+        "statement": "广域网的英文缩写是（）\nA LAN   B WAN   C MAN   D LNA",
+        "answer": "B"
+    },
+    {
+        "statement": "下列河流哪一条是世界流程最长:(  )\nA尼罗河 B长江 C亚马孙河 D密西西比河",
+        "answer": "A"
+    },
+    {
+        "statement": "如果开始时计算机处于小写输入状态，现在有一只小老鼠反复按照CapsLock、字母键A、字母键S、字母键D、字母键F的顺序循环按键，即CapsLock、A、S、D、F、CapsLock、A、S、D、F、……、屏幕上输出的第81个字母是字母（）。\nA. A B. S C.D D.a",
+        "answer": "A"
+    },
+    {
+        "statement": "根节点深度为0，一棵深度为h的满K叉树，即除最后一层无任何子节点外，每一层上所有节点都有k个子节点的树，共有（）个节点。\nA (k^{h+1}-1)/(k-1)    B k^{h-1}   C k^h   D (k^{h-1})/(k-1)",
+        "answer": "A"
+    },
+    {
+        "statement": "铅笔有硬软之分,用英文字母来表示,下列符号相比哪个表示较硬:(  )\nA、\"H\"  B、\"HB\"  C、\"B\"   D、\"2B\"",
+        "answer": "A"
+    },
+    {
+        "statement": "\"苟利国家生死以，岂因祸福避趋之“是哪位的名言?(  )\nA黄宗羲 B顾炎武 C林则徐 D口-口",
+        "answer": "C"
+    },
+    {
+        "statement": "下面的故事与（）算法有异曲同工之妙。\n\n从前有座山，山里有座庙，庙里有个老和尚在给小和尚讲故事：“从前有座山，山里有座庙，庙里有个老和尚在给小和尚讲故事：‘从前有座山，山里有座庙，庙里有个老和尚在给小和尚讲故事……’”\nA 枚举  B 递归  C 贪心  D 分治",
+        "answer": "B"
+    },
+    {
+        "statement": "10000以内，与10000互质的正整数有（）个。\nA 2000   B 4000   C 6000  D 8000",
+        "answer": "B"
+    },
+    {
+        "statement": "将7个名额分给4个不同的班级，允许有的班级没有名额，有( )种不同的分配方案。\nA. 60 B. 84 C. 96 D.120",
+        "answer": "D"
+    },
+    {
+        "statement": "我国煤炭资源主要集中在哪些省市?(  )\nA陕西、四川、新疆  B陕西、山西、内蒙  C山东、甘肃、新疆",
+        "answer": "B"
+    },
+    {
+        "statement": "阿姆斯特朗是乘哪个飞船成功登月的?(  ) \nA阿波罗11号 B阿波罗12号 C和平号 D爱国者6号",
+        "answer": "A"
+    },
+    {
+        "statement": " 以下排序算法在最坏情况下时间复杂度最优的有( )。\n\nA. 冒泡排序B. 快速排序C. 归并排序D. 堆排序",
+        "answer": "CD"
+    },
+    {
+        "statement": "对于入栈顺序为a, b, c, d, e, f, g 的序列，下列()不可能是合法的出栈序列。\n\nA. a,b,c,d,e,f,g B.a,d,c,b,e,g,fC. a,d,b,c,g,f,e D.g,f,e,d,c,b,a",
+        "answer": "C"
+    },
+    {
+        "statement": "我们平时常说“如果冬天来了,春天还会远吗?”请问这句名言出自于英国的哪位作家?(  )\nA、雨果 B、拜论 C、雪莱 D、普斯金",
+        "answer": "C"
+    },
+    {
+        "statement": "当你听到warn up的时候，可能是听到了：(  ) \nA. 热身赛  B. 警觉）  C. 起床",
+        "answer": "A"
+    },
+    {
+        "statement": "众所周知，地大ACM公众号中有___个菜单：(  ) \nA. 5      B. 0       C. 2",
+        "answer": "B"
+    },
+    {
+        "statement": "有“最强语言”之称的语言是 (  )\nA. C++天一！！！   B. Java天一！！！   C.Python天一！！！",
+        "answer": "选了讲出道理来你开心就好：）"
+    },
+    {
+        "statement": "下列哪项不是数论内容？(  )\nA. 莫比乌斯反演    B. 丢番图    C.哥尼斯堡七桥",
+        "answer": "C"
+    },
+    {
+        "statement": "满清时代，人们说的“入关”指的是什么关？(  )\nA. 天井关  B. 玉门关   C. 山海关",
+        "answer": "C"
+    },
+    {
+        "statement": "“人类一思索，上帝就发笑”是谁的名言？(  ) \nA. 爱因斯坦  B. 米兰·昆德拉  C.卢梭",
+        "answer": "B"
+    },
+    {
+        "statement": "一场标准的ICPC比赛时长？(  )\nA. 3 B. 5 C. 15",
+        "answer": "B"
+    },
+    {
+        "statement": "在vs中进行不调试执行的快捷键是：（  ）\nA. ctrl+fn+f5  B. ctrl+f5  C. ctrl+alt+5",
+        "answer": "B"
+    },
+    {
+        "statement": "下列哪一项的编译并运行快捷键是F11？(  )\nA. Lazarus B. DEV  C. Code block",
+        "answer": "B"
+    },
+    {
+        "statement": "众所周知，炉*传说是一款（  )\nA. 声控游戏  B. dp游戏  C. rp游戏",
+        "answer": "B"
+    },
+    {
+        "statement": "以下哪一部不是雷亚Rayark的音游？(  ) \nA. 《musedash》  B. 《deemo》 C. 《cytus》",
+        "answer": "A"
+    },
+    {
+        "statement": "“鱼，好大的鱼，虎纹鲨鱼”出自于哪一部动漫的ED？(  )\nA. 《Free！》  B. 《钓球》  C. 《nogamenolife游戏人生》",
+        "answer": "C"
+    },
+    {
+        "statement": "狗头人的叫声？：(  )\nA. 吼  B. 汪  C. rua",
+        "answer": "C"
+    },
+    {
+        "statement": "在微软系统自带的中文输入法中打出中文省略号的快捷键是? (  )\nA.Shift+F6   B.Shift+6   C.Ctrl+6 ",
+        "answer": "B"
+    },
+    {
+        "statement": "下列哪个角色不是英国人？(  )\nA. Dio  B. JoJo  C. giogio",
+        "answer": "C"
+    },
+    {
+        "statement": "《干校六记》的作者是：(  )\nA. 杨绛     B. 钱钟书  C. 胡适",
+        "answer": "A"
+    },
+    {
+        "statement": "在东湖一角，晚上有时会看到一个光点从空中划过，那是：(  )\nA. fff  B. 飞机  C. 国际空间站",
+        "answer": "C"
+    },
+    {
+        "statement": "众所周知，血是(  )\nA.粉色的  B.绿色的  C.蓝色的",
+        "answer": "A"
+    },
+    {
+        "statement": "“玄英”是哪个季节的别称？(  )\n A. 冬   B.夏   C.春",
+        "answer": "A"
+    },
+    {
+        "statement": "c++中5种不能重载的运算符？",
+        "answer": "  . /*/:: /?: /sizeof "
+    },
+    {
+        "statement": "我国发现最早的纸币是在哪个时期?(  )\nA唐朝  B宋朝  C元朝  D明朝",
+        "answer": "B"
+    },
+    {
+        "statement": "中华人民共和国科学技术普及法何时开始实施：（  ）\nA.2002年6月26日  \nB.2002年6月29日 \nC.2002年7月1日\nD.2003年6月29日",
+        "answer": "B"
+    },
+    {
+        "statement": "一天中空气最新鲜的时间是：（  ）\nA.上午10点左右，下午3到4点\nB.中午12点\nC.早晨7点前，晚上7点后",
+        "answer": "A"
+    },
+    {
+        "statement": "儿童夜间磨牙有多种原因，其中最主要的原因是由于：（  ）\nA.白天受惊  B.牙齿疾病  C.消化不良  D.肠道寄生虫病",
+        "answer": "D"
+    },
+    {
+        "statement": "自然科学中最早出现的科学是：（  ）\nA．数学  B．天文学  C．医学  D．化学",
+        "answer": "B"
+    },
+    {
+        "statement": "春天快过去的时候，空中会飘飞柳絮，柳絮是指:（  ）\nA.柳树开出的花 B.柳絮长出的纤维 C.柳絮裹着绒毛的种子 D.柳絮排出的废物",
+        "answer": "C"
+    },
+    {
+        "statement": "你记得和食主义者吃过几片面包吗：（  ）",
+        "answer": "13"
+    },
+    {
+        "statement": "我国森林覆盖率最高的省份：（  ）\nA．浙江  B．福建  C．吉林  D．四川",
+        "answer": "B"
+    },
+    {
+        "statement": "柿子不宜与下列哪种食物同食：（  ）\nA．红薯  B．绿豆  C．螃蟹  D．羊肉\n",
+        "answer": "C"
+    },
+    {
+        "statement": "海豚为何愿意跟随轮船：（  ）\nA．寻求安全保障  B．获取食物  C．借助外力游泳  D．与人类靠近",
+        "answer": "C"
+    },
+    {
+        "statement": "以下哪个不是冥王星的卫星：（  ）\nA．许德拉  B．尼克斯  C．卡戎  D．阋神",
+        "answer": "D"
+    },
+    {
+        "statement": "javascript最大的数是：（  ）\nA.inf  B．-inf  C.2^64-1  D．2^32-1",
+        "answer": "B"
+    },
+    {
+        "statement": "金馆长和小朋友打什么游戏赢后大笑：（  ）\nA．铁拳  B．侍魂  C．拳皇  D．DOA",
+        "answer": "B"
+    },
+    {
+        "statement": "国际通用的标准音的频率是：（  ）\nA．20000Hz  B．440Hz  C．20Hz",
+        "answer": "B"
+    },
+    {
+        "statement": "疼痛等级分十级，蚊虫叮咬是第几级：（  ）\nA．3  B．2  C．1  D．0\n",
+        "answer": "C"
+    },
+    {
+        "statement": "说出2种咖啡豆的品种",
+        "answer": "新世界、铁皮卡、瑰夏、波旁、卡图拉、象豆"
+    },
+    {
+        "statement": "说出5种机械键盘的轴的类型",
+        "answer": "青黑红茶紫chery静电容鲶鱼"
+    },
+    {
+        "statement": "计算机的硬件系统的五个部分？",
+        "answer": "主板、CPU、内存、显卡、硬盘。"
+    },
+    {
+        "statement": "存在磁盘上的信息，以什么的形式存放？",
+        "answer": "按扇区存放在硬盘上。"
+    },
+    {
+        "statement": "Excel文件的扩展名是什么？ ",
+        "answer": ".xls。"
+    },
+    {
+        "statement": "海绵的骨针分为哪两种",
+        "answer": "硅质&钙质"
+    },
+    {
+        "statement": "《三体》有哪三部？",
+        "answer": "地球往事、黑暗森林、死神永生。"
+    },
+    {
+        "statement": "哪种动物叫四不像？",
+        "answer": "麋鹿。"
+    },
+    {
+        "statement": "造轮子是什么意思",
+        "answer": "自己写别人已经写好的库、框架等"
+    },
+    {
+        "statement": "电脑的中央处理器英文简写是什么?  ",
+        "answer": "CPU。"
+    },
+    {
+        "statement": "吉良吉影想过什么样的生活？",
+        "answer": "普通的"
+    },
+    {
+        "statement": "利维亚的杰洛特的另一个绰号是",
+        "answer": "巴尔维坎的屠夫||白狼"
+    },
+    {
+        "statement": "图灵奖是哪个组织设立的？",
+        "answer": "ACM"
+    },
+    {
+        "statement": "电子计算机发明于哪一年?  ",
+        "answer": "1946年。"
+    },
+    {
+        "statement": "谁是中国历史上使用年号最多的皇帝？",
+        "answer": "武则天。"
+    },
+    {
+        "statement": "ACM/ICPC标志的颜色？",
+        "answer": "红蓝黄"
+    },
+    {
+        "statement": "算法执行过程中所需要的存储空间称为算法的什么？",
+        "answer": "空间复杂度。"
+    },
+    {
+        "statement": "rm -rf / 是什么意思",
+        "answer": "强制删除，不可恢复（推荐使用）"
+    },
+    {
+        "statement": "数据库系统的核心是什么？",
+        "answer": "数据库管理系统。"
+    },
+    {
+        "statement": "地大ACM协会公众号打招呼时使用了什么表情？",
+        "answer": "：）"
+    },
+    {
+        "statement": "人体含水量百分比最高的器官是什么？",
+        "answer": "眼球。"
+    },
+    {
+        "statement": "地大AC自动机的QQ号中出现了什么神奇的状态码？",
+        "answer": "404"
+    },
+    {
+        "statement": "研究量子计算机的目的是为了解决计算机中的什么问题？",
+        "answer": "能耗问题。"
+    },
+    {
+        "statement": "世界上最早出现的纸币是什么？",
+        "answer": "交子。"
+    },
+    {
+        "statement": "把内存中数据传送到计算机的硬盘上去的操作称为什么？",
+        "answer": "写盘。"
+    },
+    {
+        "statement": "杨辉三角第6行？",
+        "answer": "1 5 10 10 5 1"
+    },
+    {
+        "statement": "威伦最强的昆特牌手是谁",
+        "answer": "血腥男爵 菲利普 斯特伦格"
+    },
+    {
+        "statement": "“千古奇冤，江南一叶。同室操戈，相煎何急？”出自谁？",
+        "answer": "周恩来。"
+    },
+    {
+        "statement": "光缆传递信息利用了什么原理?",
+        "answer": "全反射。"
+    },
+    {
+        "statement": "1MB的存储容量相当于多少字节？",
+        "answer": "1048576（1<<20）"
+    },
+    {
+        "statement": "目前人类已知的最软的石头是什么？",
+        "answer": "滑石。"
+    },
+    {
+        "statement": "三年oi一场空，请接下句",
+        "answer": "不开long long见祖宗/数组开大见祖宗……"
+    },
+    {
+        "statement": "恐龙之前的寒武纪谁称霸？",
+        "answer": "奇虾。"
+    },
+    {
+        "statement": "方便面搭配火腿肠一起吃哪种元素会严重超标？",
+        "answer": "钠元素。"
+    },
+    {
+        "statement": "日常只吃一种食物，哪个可以让人活的最久？",
+        "answer": "土豆。"
+    },
+    {
+        "statement": "银河奖现在由哪个杂志独家举办？",
+        "answer": "由《科幻世界》独家举办。"
+    },
+    {
+        "statement": "函数功能：Average？",
+        "answer": "计算指定区域中数据的平均值"
+    },
+    {
+        "statement": "函数功能：Sum？",
+        "answer": "计算出指定区域中数据的总和"
+    },
+    {
+        "statement": "蓝书、紫书的作者是谁？",
+        "answer": "刘汝佳"
+    },
+    {
+        "statement": "方便面里必然有的食品添加剂是？",
+        "answer": "合成抗氧化剂。"
+    },
+    {
+        "statement": "乌龟有声带吗？",
+        "answer": "没有。"
+    },
+    {
+        "statement": "世界天气的推动是？",
+        "answer": "太阳。"
+    },
+    {
+        "statement": "假如你在宇宙飞船上烧一壶水，烧多长时间才会烧开呢？",
+        "answer": "不会烧开。"
+    },
+    {
+        "statement": "鱼有耳朵吗？",
+        "answer": "有。"
+    },
+    {
+        "statement": "在微型计算机的汉字系统中，一个汉字的内码占多少字节？",
+        "answer": "2"
+    },
+    {
+        "statement": "如果想把一个文件传输给别人，而对方又没有FTP服务器，最好的办法是使用什么？",
+        "answer": "E-mail。"
+    },
+    {
+        "statement": "计算机硬件能直接执行的只有？",
+        "answer": "机器语言。"
+    },
+    {
+        "statement": "最高级的爬行动物是？",
+        "answer": "鳄鱼。"
+    },
+    {
+        "statement": "大熊猫和小熊猫是同一科吗？ ",
+        "answer": "不是。"
+    },
+    {
+        "statement": "最近韩国又想要对什么发起申遗?",
+        "answer": "螺蛳粉"
+    },
+    {
+        "statement": "伦勃朗的名画《夜巡》发生在一天中什么时间段？",
+        "answer": "白天"
+    },
+    {
+        "statement": "《百鸟朝凤》的演奏乐器是什么？",
+        "answer": "唢呐"
+    },
+    {
+        "statement": "我国是什么时候采用公历的？",
+        "answer": "辛亥革命以后"
+    },
+    {
+        "statement": "中国最大的油田在哪？",
+        "answer": "黑龙江大庆"
+    },
+    {
+        "statement": "第一个在奥运会上参赛的中国人是谁？",
+        "answer": "刘长春"
+    },
+    {
+        "statement": "众所周知，scp-682是一只",
+        "answer": "蜥蜴"
+    },
+    {
+        "statement": "第一篇长篇叙事诗是？",
+        "answer": "《孔雀东南飞》"
+    },
+    {
+        "statement": "五岳中南岳是哪座山？",
+        "answer": "衡山"
+    },
+    {
+        "statement": "奥杜因自称是谁的长子？或者说出这个梗的出处",
+        "answer": "阿卡托什/上谷卷轴"
+    },
+    {
+        "statement": "世界上最大的平原？",
+        "answer": "亚马孙平原"
+    },
+    {
+        "statement": "在长期使用小写字母编辑下如何临时快捷的输入大写字母？",
+        "answer": "Shift加需要输入的字母"
+    },
+    {
+        "statement": "电脑上如何恢复手误关闭的网页？",
+        "answer": "Ctrl+shift+T"
+    },
+    {
+        "statement": "NBA劲旅老鹰队坐落于那座城市？",
+        "answer": "亚特兰大"
+    },
+    {
+        "statement": "古代绘画、丝质陈列室为什么要控制光线？",
+        "answer": "减少紫外线的侵害"
+    },
+    {
+        "statement": "导演张艺谋最新上映的电影是那一部？",
+        "answer": "《影》"
+    },
+    {
+        "statement": "国际上用“K”表示含金量，18K金表示含金量百分比为百分之多少？",
+        "answer": "0.75"
+    },
+    {
+        "statement": "电影《泰坦尼克号》，年老的Rose扔进海里的蓝色钻石叫什么名字？",
+        "answer": "海洋之心"
+    },
+    {
+        "statement": "中国最早的和领先的在线小游戏平台?",
+        "answer": "4399小游戏"
+    },
+    {
+        "statement": "众所周知，32指的是？",
+        "answer": "stm32（某种单片机）"
+    },
+    {
+        "statement": "第一个提交了某题正确答案的参赛者可以获得？",
+        "answer": "气球"
+    },
+    {
+        "statement": "Touhou project中报春的妖精是谁？",
+        "answer": "Lily_White"
+    },
+    {
+        "statement": "中国面积最大的省份是哪一个？",
+        "answer": "新疆"
+    },
+    {
+        "statement": "“八爷润嗓中”出自哪部剧？",
+        "answer": "非自然死亡"
+    },
+    {
+        "statement": "在Siri中问“What's the meaning of life?”会得到什么？ ",
+        "answer": "42"
+    },
+    {
+        "statement": "第一个飞出太阳系的航天器是？",
+        "answer": "先驱者10号"
+    },
+    {
+        "statement": "汉字中只有一笔的字有几个？",
+        "answer": "3个"
+    },
+    {
+        "statement": "中国法定节假日安排劳动者工作的，报酬不得低于普通工资的几倍?",
+        "answer": "3倍"
+    },
+    {
+        "statement": "复仇者联盟4在中国上映时间比北美早几天？",
+        "answer": "2days"
+    },
+    {
+        "statement": "Kirisame Marisa常说的结尾口癖是？",
+        "answer": "Da☆Ze~"
+    },
+    {
+        "statement": "肯德基的创始人是什么军衔？",
+        "answer": "上校"
+    },
+    {
+        "statement": "我们现在实行的八小时工作制度最早在哪个国家出现？",
+        "answer": "英国"
+    },
+    {
+        "statement": "996 ，____",
+        "answer": "ICU"
+    },
+    {
+        "statement": "人类的本质是？",
+        "answer": "真香，真香，"
+    },
+    {
+        "statement": "《三体Ⅱ黑暗森林》中主人公叫什么名字？ ",
+        "answer": "罗辑"
+    },
+    {
+        "statement": "the answer to life, the universe, and everything",
+        "answer": "42"
+    },
+    {
+        "statement": "在CF竞赛中正确答题获得的反馈是？",
+        "answer": "pretest accepted"
+    },
+    {
+        "statement": "《流浪地球》中MOSS致敬的是？（答影片名或角色皆可）",
+        "answer": "《2001太空漫游》的HAL9000"
+    },
+    {
+        "statement": "生当封武安，死当谥_____？",
+        "answer": "文正"
+    },
+    {
+        "statement": "陕西的英文名是Shaanxi，多出一个a，为什么？",
+        "answer": "是为了和山西（Shanxi）区别开来。"
+    },
+    {
+        "statement": "光既是波，又是什么？",
+        "answer": "粒子"
+    },
+    {
+        "statement": "ICPC全称是什么？ ",
+        "answer": "国际大学生程序设计竞赛"
+    },
+    {
+        "statement": "物理界的四大神兽是什么？",
+        "answer": "芝诺的乌龟、拉普拉斯兽、麦克斯韦妖、薛定谔的猫。"
+    },
+    {
+        "statement": "相对论是由谁创立的？",
+        "answer": "爱因斯坦"
+    },
+    {
+        "statement": "计算机运算采用几进制？",
+        "answer": "二进制"
+    },
+    {
+        "statement": "人的五感中哪一个反应最快？",
+        "answer": "味觉"
+    },
+    {
+        "statement": "马努·吉诺比利的球衣退役时间？",
+        "answer": "2019-03-29 00:00:00"
+    },
+    {
+        "statement": "甲骨文是写在哪上面的？",
+        "answer": "龟骨"
+    },
+    {
+        "statement": "企鹅是否可以生活在赤道附近？",
+        "answer": "可以"
+    },
+    {
+        "statement": "露娜拉对阵德鲁伊时开场白“lshnu'alah，__德鲁伊”？",
+        "answer": "大"
+    },
+    {
+        "statement": "（Touhou）二次设定中，洛天依的形象可能和谁有关？",
+        "answer": "霍青娥"
+    },
+    {
+        "statement": "圆周率精确到小数后十位是什么？",
+        "answer": "1 4 1 5 9 2 6 5 3 5。"
+    },
+    {
+        "statement": "洛天依的声源是?",
+        "answer": "山新"
+    },
+    {
+        "statement": "我国唯一一个具有五种地形的省区是哪里? ",
+        "answer": "四川"
+    },
+    {
+        "statement": "请举出一个民风淳朴的城镇? ",
+        "answer": "哥谭市/亚楠镇/希望郡/不死街/自由城/洛圣都……"
+    },
+    {
+        "statement": "北极熊的毛是什么颜色? ",
+        "answer": "透明"
+    },
+    {
+        "statement": "自古枪兵的幸运值是多少?",
+        "answer": "E"
+    },
+    {
+        "statement": "最广为人知的退出vim的方法",
+        "answer": "随机生成字符串"
+    },
+    {
+        "statement": "第二次世界大战中哪个国家首次使用喷气式战斗机？",
+        "answer": "德国"
+    },
+    {
+        "statement": "世界第二高峰是？",
+        "answer": "乔戈里峰"
+    },
+    {
+        "statement": "ctf比赛中需要提交的东西称之为什么",
+        "answer": "flag"
+    },
+    {
+        "statement": "地质三大件是什么？",
+        "answer": "放大镜、地质锤、罗盘"
+    },
+    {
+        "statement": "“世界水日”为每年几月几日？",
+        "answer": "43181"
+    },
+    {
+        "statement": "中国的三大国粹是？",
+        "answer": "国画、京剧、中医。"
+    },
+    {
+        "statement": "人体最坚硬的部分是哪里？",
+        "answer": "牙齿"
+    },
+    {
+        "statement": "团中央将每年农历3月3日定为什么节日？A.华服日  B.33日  C.先生日  D.斗笠日",
+        "answer": "A"
+    },
+    {
+        "statement": "比赛时参赛者食用什么补（kai）充（shi）能（mo）量（yu）？",
+        "answer": "面包"
+    },
+    {
+        "statement": "第一届世界杯足球赛是在哪个国家举行？ ",
+        "answer": "乌拉奎"
+    },
+    {
+        "statement": "奥运会旗是五色环旗，其中黄色环代表哪个洲？",
+        "answer": "亚洲"
+    },
+    {
+        "statement": "2019年3月25日是什么日子？",
+        "answer": "普通的一天"
+    },
+    {
+        "statement": "一个苹果，最甜的是哪个部位？ ",
+        "answer": "顶部"
+    },
+    {
+        "statement": "世界上第一例试管婴儿出生于何年？",
+        "answer": "1978年"
+    },
+    {
+        "statement": "地大ACM教练是谁？",
+        "answer": "Jeff（张峰）"
+    },
+    {
+        "statement": "地大的AC自动机喜欢说什么？\nA.锟斤拷   B.烫烫烫   C.:3   D.AC",
+        "answer": "A||B||C"
+    }
+]
