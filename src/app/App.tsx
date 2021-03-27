@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { Button, ButtonGroup, Dimmer, Divider, Grid, Header, Icon, Loader, Segment } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
 import "./App.css";
@@ -20,11 +20,12 @@ const App: React.FC<{}> = () => {
     const [loading, setLoading] = useState(false);
     const [data, setData] = useState<ProblemList | null>(null);
     const [problem, setProblem] = useState<ProblemItem | null>(null);
-    const [running, setRunning] = useState(false);  
+    const [running, setRunning] = useState(false);
     const [countdown, setCountdown] = useState(0);
     const [correctCount, setCorrectCount] = useState(0);
     const [showResult, setShowResult] = useState(false);
     const [showAnswer, setShowAnswer] = useState(false);
+    const usedProblems = useRef<Set<number>>(new Set<number>());
     useEffect(() => {
         if (!loaded) {
             setLoading(true);
@@ -41,15 +42,31 @@ const App: React.FC<{}> = () => {
     };
     const chooseNextProblem = () => {
         if (!data) return;
-        const prob = data[myRandom(0, data.length - 1)];
+        if (usedProblems.current.size === data.length) {
+            endGame();
+            return;
+        }
+        const oks = data.map((_, i) => i).filter(x => !usedProblems.current.has(x));
+        // console.log(oks);
+        if (oks.length === 0) {
+            endGame();
+            return;
+        }
+
+        const id = oks[myRandom(0, oks.length - 1)];
+        const prob = data[id];
+        // console.log(id, "selected");
+        usedProblems.current.add(id);
         setProblem(prob);
         setShowAnswer(false);
+
     };
     const start = () => {
         setShowResult(false);
         setCountdown(LIMIT_SECONDS);
         setCorrectCount(0);
         setRunning(true);
+        usedProblems.current.clear();
         chooseNextProblem();
     };
     const passCurrent = () => {
