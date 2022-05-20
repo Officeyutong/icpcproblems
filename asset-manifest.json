@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/icpcproblems/static/css/main.705e6465.chunk.css",
+    "main.js": "/icpcproblems/static/js/main.1b65ee2e.chunk.js",
+    "runtime-main.js": "/icpcproblems/static/js/runtime-main.2b838f7c.js",
+    "static/css/2.400861c6.chunk.css": "/icpcproblems/static/css/2.400861c6.chunk.css",
+    "static/js/2.9195dd9c.chunk.js": "/icpcproblems/static/js/2.9195dd9c.chunk.js",
+    "index.html": "/icpcproblems/index.html",
+    "static/js/2.9195dd9c.chunk.js.LICENSE.txt": "/icpcproblems/static/js/2.9195dd9c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/icpcproblems/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b838f7c.js",
+    "static/css/2.400861c6.chunk.css",
+    "static/js/2.9195dd9c.chunk.js",
+    "static/css/main.705e6465.chunk.css",
+    "static/js/main.1b65ee2e.chunk.js"
+  ]
+}
