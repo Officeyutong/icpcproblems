@@ -13,6 +13,8 @@ def main():
     result = []
     for line in sheet.iter_rows():
         stmt, answer = line[:2]
+        if stmt.value is None or answer.value is None:
+            continue
         result.append({
             "statement": str(stmt.value),
             "answer": str(answer.value)
