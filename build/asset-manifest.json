@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/icpcproblems/static/css/main.705e6465.chunk.css",
-    "main.js": "/icpcproblems/static/js/main.f4bf9f56.chunk.js",
+    "main.js": "/icpcproblems/static/js/main.641e9c6d.chunk.js",
     "runtime-main.js": "/icpcproblems/static/js/runtime-main.2b838f7c.js",
     "static/css/2.400861c6.chunk.css": "/icpcproblems/static/css/2.400861c6.chunk.css",
     "static/js/2.9195dd9c.chunk.js": "/icpcproblems/static/js/2.9195dd9c.chunk.js",
@@ -14,6 +14,6 @@
     "static/css/2.400861c6.chunk.css",
     "static/js/2.9195dd9c.chunk.js",
     "static/css/main.705e6465.chunk.css",
-    "static/js/main.f4bf9f56.chunk.js"
+    "static/js/main.641e9c6d.chunk.js"
   ]
 }
